@@ -79,7 +79,3 @@ The goal is to understand historical churn patterns, visualize key metrics, and 
 4. **Power BI (Part 2):**
     * Import `predictions.csv` into Power BI.
     * Build the "Churn Prediction" page to visualize future churners.
-
-## 🔗 Credits & Resources
-* **Original Tutorial:** [Power BI End to End Churn Analysis Portfolio Project (YouTube)](https://www.youtube.com/watch?v=QFDslca5AX8)
-* **Channel:** Pivotalstats
